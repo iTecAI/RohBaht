@@ -4,7 +4,7 @@ class o:
     mode = 'discord'
     message_volume = 10000
     locs = ['452565980745433117', '368951504578543627', '451093718574039050']
-    creds = ['etagenda2@gmail.com', 'Mi$itaROBOT']
+    creds = ['usr', 'pss']
     corploc = '1'
     names = ['roh', 'baht', 'aadi']
     bye = ['Bye!', 'Hasta la vista', 'i gtg nao', 'i haf 2 sreep']
